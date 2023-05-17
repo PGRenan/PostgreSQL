@@ -1,0 +1,13 @@
+integer                         inteiro
+real                         	numero real, com até 6 digitos de precisão
+serial                          se completa sozinho, tipo um contador
+numeric (n,n)                   pode definir o numero de caracteres e o numero de casas decimais     
+varchar(n)                      nome normal, com carteres limitados(n), mas n precisos
+char(n)                         caracteres precisos, tem que ter o valor de n
+text                         	sem restrição de caracteres
+
+boolean                         verdadeiro ou falso
+
+date				data
+time 				hora	
+timestamp 			data e hora
